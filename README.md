@@ -1,4 +1,4 @@
-Hardware: OYMotion armband and bionic hand
+Hardware: OYMotion gForcePro and OYMotion ROH-LiteS001 dexterous hand
 
 Environment: PyTorch
 
